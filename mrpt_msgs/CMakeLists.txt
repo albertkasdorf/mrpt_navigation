@@ -24,6 +24,7 @@ add_message_files(
   NodeIDWithPose_vec.msg
   GraphConstraint.msg
   NetworkOfPoses.msg
+  BeaconObservationResult.msg
   )
 
 
